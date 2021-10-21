@@ -212,7 +212,7 @@ export const components = [
 ]
 
 export const classes = [
-  'animate__animated animate__fadeIn',
+  'animate__animated animate__fadeIn animate__slow animate__delay-2s',
   'animate__animated animate__fadeIn animate__slow',
   'animate__animated animate__fadeIn animate__slow animate__delay-2s'
 ]

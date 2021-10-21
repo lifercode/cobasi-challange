@@ -32,8 +32,8 @@ const swipeBreakpoints = {
 
 const SwiperCarousel = () => {
   return (
-    <SwiperContainer>
-      <SectionTitle className={classes[0]}>
+    <SwiperContainer className={classes[0]}>
+      <SectionTitle>
         Marcas participantes:
       </SectionTitle>
       <Swiper
