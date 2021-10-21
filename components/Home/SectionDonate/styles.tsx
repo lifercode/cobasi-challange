@@ -346,11 +346,12 @@ export const SelectOngsContainer = styled.div`
     font-weight: 600;
     background-image: url('/img/icon-select-arrow.svg');
     background-repeat: no-repeat;
-    background-position: 295px 17px;
+    background-position: 295px 30px;
 
     @media (max-width: 780px) {
       height: 50px;
       background-color: white;
+      background-position: 295px 17px;
     }
   }
   & > select > option {
