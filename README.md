@@ -21,6 +21,10 @@ Acesse [http://localhost:3000](http://localhost:3000) no seu navegador para ver 
 
 Utilizei o framework [Next.js](https://nextjs.org/) por costume e também para facilitar o deploy na [Vercel](https://vercel.com/).
 
+## Press video
+
+[![IMAGE ALT TEXT HERE](https://img.youtube.com/vi/Ut0Sgjkw6Ks/0.jpg)](https://www.youtube.com/watch?v=Ut0Sgjkw6Ks)
+
 ## Animation CSS
 
 ![GIF ONE](public/press/one.gif)
