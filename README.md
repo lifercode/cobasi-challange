@@ -23,6 +23,8 @@ Utilizei o framework [Next.js](https://nextjs.org/) por costume e também para f
 
 ## Press video
 
+[youtube.com/watch?v=Ut0Sgjkw6Ks](https://www.youtube.com/watch?v=Ut0Sgjkw6Ks)
+
 [![IMAGE ALT TEXT HERE](https://img.youtube.com/vi/Ut0Sgjkw6Ks/0.jpg)](https://www.youtube.com/watch?v=Ut0Sgjkw6Ks)
 
 ## Animation CSS
