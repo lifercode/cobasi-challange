@@ -20,3 +20,13 @@ Acesse [http://localhost:3000](http://localhost:3000) no seu navegador para ver 
 ## Obs
 
 Utilizei o framework [Next.js](https://nextjs.org/) por costume e também para facilitar o deploy na [Vercel](https://vercel.com/).
+
+## Animation CSS
+
+![GIF ONE](public/press/one.gif)
+
+![GIF TWO](public/press/two.gif)
+
+![GIF THREE](public/press/three.gif)
+
+![GIF FOUR](public/press/four.gif)
